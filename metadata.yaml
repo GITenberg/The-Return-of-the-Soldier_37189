@@ -1,0 +1,50 @@
+_repo: The-Return-of-the-Soldier_37189
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37189-h/images/cover.jpg
+creator:
+  author:
+    agent_name: West, Rebecca
+    aliases:
+    - Fairfield, Cicely Isabel
+    - Fairfield, Cecily Isabel
+    - Andrews, Cecily Isabel Fairfield
+    - Fairfield, Cicily Isabel
+    birthdate: 1892
+    deathdate: 1983
+    gutenberg_agent_id: '6499'
+    url: http://www.gutenberg.org/2009/agents/6499
+    wikipedia: http://en.wikipedia.org/wiki/Rebecca_West
+description: '"World War I, in the background of Rebecca West''s first novel, was
+  "the first war that women could imagine," writes Samuel Hynes in his eloquent introduction,
+  "and so it was the first that a woman could write into a novel." Narrated by a woman
+  who, like West, has never experienced war and yet for whom the war was very real,
+  The Return of the Soldier (1918) takes place not on a battlefield, but in an isolated
+  country house. It examines the relationships between three women and a soldier suffering
+  from shell shock. This novel of an enclosed world invaded by public events also
+  embodies in its characters the shifts in England''s class structures at the beginning
+  of the twentieth century, as well as the choice between the romantic past and the
+  horrifying present, between love and reality."'
+gutenberg_issued: '2011-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37189'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'War neuroses -- Fiction'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- England -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Amnesia -- Fiction'
+title: The Return of the Soldier
+url: http://www.gutenberg.org/ebooks/37189
